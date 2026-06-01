@@ -1,4 +1,4 @@
-# 🧮 Haskell Symbolic Arithmetic Expression Simplifier
+# Haskell Symbolic Arithmetic Expression Simplifier
 
 ## Overview
 
